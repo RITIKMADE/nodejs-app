@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RITIKMADE/nodejs-app/issues"
   },
-  "homepage": "https://github.com/RITIKMADE/nodejs-app#readme"
+  "homepage": "https://github.com/RITIKMADE/nodejs-app#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
